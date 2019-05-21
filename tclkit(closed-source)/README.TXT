@@ -11,6 +11,11 @@ Now, what is TCLKit?
 Tclkit is an implementation of Tcl. Tclkit is a single-file distributions of Tcl (based on libtcl) that can be launched 
 without prior installation.
 
+X-VERSION-X
+Compiled version: 8.6.9
+Latest version: https://en.wikipedia.org/wiki/Tcl
+X---------X
+
 X-COMPATIBILITY-X
 This binary supports older versions, Android Lollipop and above which require Position-Independent-Code.
 X---------------X
