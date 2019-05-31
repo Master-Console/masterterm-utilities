@@ -32,8 +32,8 @@ The binaries were generated with Android-NDK r10e. Later Android-NDK versions ma
 reports to be buggy.
 X-----X
 
-X-CERT-X
-All binaries have a verified certificate signed by Master-Console Inc. So you never need to think of trust.
+X-LICENSE-X
+All binaries, source files and libraries are licensed under their respective licenses, which can be found in the LICENSE file.
 X------X
 
 X-SRC-X
