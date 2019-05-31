@@ -4,4 +4,4 @@ APP_PLATFORM := android-16
 # support for lower versions, if its used instead, will result in segmentation fault.
 
 APP_ABI := all
-# This will compile sash for all architectures. However mips and mips64 are deprecated by Google.
+# This will compile sash for all architectures. However armeabi, mips and mips64 are deprecated by Google.
