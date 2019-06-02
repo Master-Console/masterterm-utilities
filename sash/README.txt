@@ -34,7 +34,12 @@ X-----X
 
 X-LICENSE-X
 All binaries, source files and libraries are licensed under their respective licenses, which can be found in the LICENSE file.
-X------X
+X---------X
+
+X-PACKAGE INFO-X
+Latest version: 3.8
+Dependencies: none
+X--------------X
 
 X-SRC-X
 This directory and its packages are open-source. However, original-source may or may not be available.
