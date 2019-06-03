@@ -28,7 +28,7 @@ Why it is helpful in Android?
 As we know, Android normally ships with 'sh' which symlinks to mksh(MirBSD Korn Shell) which is Bourne compatible, that is, requires its own Algorithms, depends on PATH, external utilities, or programs available because it doesn't have all the general commands in need. However, when system fails or if the core libraries get corrupted or if a part of the filesystem becomes totally unmountable, programs dependent on other programs will fail to load. In this scenario, sash which has all libraries statically linked, even dynamically linked will not fail and can help in various circumstances of development. Now, many know that there exists busybox but Busybox is not a shell but a software suite that provides several Unix utilities in a single executable file, that means busybox needs to be invoked every time a shell prompts up. However, like every shell it contains built-in commands but not every command. Thus other utilities like busybox can help.
 
 X-GEN-X
-The binaries were generated with Android-NDK r10e. Later Android-NDK versions may crash because GCC has been removed and Clang always
+The binaries were generated with Android-NDK r10e in a Windows 10 64-bit OS. Later Android-NDK versions may crash because GCC has been removed and Clang always
 reports to be buggy.
 X-----X
 
