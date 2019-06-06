@@ -4,7 +4,7 @@
 </p>
 
 **_MasterTerminal_** or **_jackpal's Mastered Terminal(jMTerm)_** is an extended jackpal's [Terminal-Emulator-For-Android](https://github.com/jackpal/Android-Terminal-Emulator) which is available as 
-a tool in User-Tools. However, User-Tools nor its Tools are released publicly.
+a tool in User-Tools. However, User-Tools nor its Tools are released publicly for now
 
 This repo provides utilities such as programs, binaries, libraries and files for MasterTerm which would run on the Android OS.
 All utilities are not provided for now in this repo and will be revised regularly but published ones will successfully work and should
