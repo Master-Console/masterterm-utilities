@@ -3,7 +3,7 @@
 <a href="https://github.com/Master-Console/masterterm-utilities/" alt="Stable and Accessible"><img src="https://img.shields.io/badge/stable-accessible-yellowgreen.svg" /></a>
 </p>
 
-### Important Info: The Maintainer/Maintainers of this repo will be busy from tomorrow and they may only be available in holidays.
+### Important Info: The Maintainer/Maintainers of this repo will be busy from 12-6-2019 and they may only be available in holidays.
 
 **_MasterTerminal_** or **_jackpal's Mastered Terminal(jMTerm)_** is an extended jackpal's [Terminal-Emulator-For-Android](https://github.com/jackpal/Android-Terminal-Emulator) which is available as 
 a tool in User-Tools. However, User-Tools nor its Tools are released publicly for now
