@@ -24,7 +24,7 @@ It achieves higher compression than other DEFLATE/zlib implementations, but take
 It was first released in February 2013 by Google as a free software programming library under the Apache License, Version 2.0.
 
 Why it is helpful?
-It is designed to produce the likely smallest compressed output for any archive it supports. Other than that, its provides its own
+It is designed to produce the likely smallest compressed output for any archive it supports. Other than that, it provides its own
 image optimizer for PNG(Portable Network Graphics). Since it is a lossless transformation, a PNG file that is recompressed with 
 Zopfli still retains all the pixels as expected. It can make images on the web load faster without a new image format, but the 
 opportunities for optimization within PNG are limited. However, This library can only compress, not decompress. Existing zlib or deflate
