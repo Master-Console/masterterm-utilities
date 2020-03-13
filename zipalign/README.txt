@@ -48,6 +48,7 @@ X---------X
 X-PACKAGE INFO-X
 Update & Details: Yes, official googlecode repo has a newer version but requires C++14 support which NDK r10e lacks.
 Latest version: (aosp-mirror@ad7d562)
+Language: C, C++
 Dependencies: none
 X--------------X
 
