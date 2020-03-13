@@ -41,6 +41,7 @@ X---------X
 
 X-PACKAGE INFO-X
 Latest version: 1.0.2
+Language: C, C++
 Dependencies: none
 X--------------X
 
