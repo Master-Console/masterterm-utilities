@@ -33,6 +33,7 @@ X---------X
 
 X-PACKAGE INFO-X
 Latest version: 1.2.11
+Language: C
 Dependencies: none
 X--------------X
 
