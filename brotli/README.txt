@@ -40,6 +40,7 @@ X---------X
 
 X-PACKAGE INFO-X
 Latest version: 1.0.7
+Language: C
 Dependencies: none
 X--------------X
 
