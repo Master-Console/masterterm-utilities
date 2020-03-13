@@ -38,6 +38,7 @@ X---------X
 
 X-PACKAGE INFO-X
 Latest version: 3.8
+Language: C
 Dependencies: none
 X--------------X
 
