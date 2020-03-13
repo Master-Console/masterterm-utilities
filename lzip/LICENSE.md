@@ -15,3 +15,9 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 ### The license above only applies to the modifications done to port and by the usage of this ported library or programs associated. It does not apply to lzip source code or anything relative to the original lzip author. Lzip is the property of the Antonio Diaz Diaz. This license file also contains their copyright notices:
 
 Copyright (C) 2008-2019 Antonio Diaz Diaz.
+
+License GPLv2+: GNU GPL version 2 or later <http://gnu.org/licenses/gpl.html>
+
+                This is free software: you are free to change and redistribute it.
+                
+                There is NO WARRANTY, to the extent permitted by law.
