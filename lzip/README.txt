@@ -14,8 +14,7 @@ lzip has been compiled for the following architectures:
 |--------------------------------------------------------------------------------------------------------------------------------------------|
 
 
-This package falls under the category of 'Utilities'. Meaning any type of utility programn`
-program.
+This package falls under the category of 'Utilities'. Meaning any type of utility program.
 
 What is lzip?
 Lzip is a lossless data compressor with a user interface similar to the one of gzip or bzip2. Lzip can compress about as fast as 
